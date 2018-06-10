@@ -1,0 +1,254 @@
+
+#cont{position: absolute;
+   
+    padding: 0%;
+
+    top: 30%;
+    left: 23%;
+  } 
+
+ #contact{ position: absolute;
+    padding: 0%;
+    top: 23%;
+    left: 22%;
+    color: lightblue;
+    font-size: 20px;
+ }
+  
+  #myname{
+      width: 300px;
+      
+
+  }
+  #myemail{
+    width: 300px;
+    
+
+}
+
+#message{
+  width: 300px;
+  height: 120px;
+
+}
+
+
+
+
+
+
+
+
+body{
+    background: silver;
+}
+
+
+
+
+.container{position: absolute;
+top: 4%;
+padding: 1%;
+height: 10%;
+width: 98%;
+left:0%;
+background-color: white;
+text-align: right;
+float:left;
+}
+
+nav {
+    float:right;
+}
+
+nav ul{
+margin:0%;
+padding:0%;
+list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 22px;
+}
+
+#nav1:hover{
+color: red;
+}
+#nav1:active{
+    color: blue;
+}
+#nav1:focus{
+    color: green;
+}
+
+#nav2:hover{
+    color: red;
+    }
+    #nav2:active{
+        color: blue;
+    }
+    #nav2:focus{
+        color: green;
+    }
+
+    #nav3:hover{
+        color: red;
+        }
+        #nav3:active{
+            color: blue;
+        }
+        #nav3:focus{
+            color: green;
+        }
+
+        #name {position: absolute;
+            padding:1%;
+            height: 10%;
+            width:10%;
+            text-align: center;
+            background-color:lightblue;
+            top:1%;
+            left:20%;
+            color: white;
+            font-size:20px;
+        }    
+
+
+   #para{ 
+       position: absolute;
+       top:46%;
+       left:22%;
+       right:20%;
+       font-size: 15px;
+       color: black;
+   }
+
+   p{ position: absolute;
+    top: 20%;
+    left: 22%;
+    color: lightblue;
+    font-size: 20px;
+    
+    }
+
+    #myimage{ position: absolute;
+        top: 27%;
+        left:22%;
+
+    }
+
+   .pad{
+    position: absolute;
+    padding: 1%;
+    top: 20%;
+    left:20%;
+    background: white;
+    width: 60%;
+    height: 60%;
+    
+    }
+
+
+
+    #portfolio{position: absolute;
+padding:1%;
+height: 60%;
+width: 70%;
+top: 23%;
+left: 15%;
+background: white;
+color: lightblue;
+
+}
+
+
+#pic1{
+position: absolute;
+padding: 1%;
+background: lightblue;
+top: 49%;
+left: 60%;
+width: 13.2%;
+}
+
+#pic2{
+position: absolute;
+padding: 1%;
+background: lightblue;
+top: 49%;
+left: 20%;
+width:13.2%;
+}
+
+#pic3{
+position: absolute;
+padding: 1%;
+background: lightblue;
+top: 49%;
+left: 40%;
+width:13.2%;
+} 
+
+#pic4{
+position: absolute;
+padding: 1%;
+background: lightblue;
+top: 79%;
+left: 20%;
+width:13.2%;
+} 
+
+#pic5{
+position: absolute;
+padding: 1%;
+background: lightblue;
+top: 79%;
+left: 40%;
+width:13.2%;
+
+} 
+
+
+
+#img1{position: absolute;
+    left:20%;
+    top:37%;
+    height: 19%;
+    border: 1px solid black;
+    
+    }
+    
+    #img2{position: absolute;
+    left:40%;
+    top: 37%;
+    height:19%;
+    border: 1px solid black;
+    }
+    
+    #img5{position:absolute;
+    top:37%;
+    left: 60%;
+    height: 19%;
+    border: 1px solid black;
+    }
+    
+    #img3{position: absolute;
+    left: 20%;
+    top: 67%;
+    height: 19%;
+    border: 1px solid black;
+    }
+    
+    #img4{position: absolute;
+    top: 67%;
+    left: 40%;
+    height: 19%;
+    border: 1px solid black;
+    }
+    
+    
+            
+
